@@ -4,7 +4,7 @@ EverydayManga is a small Node.js Twitter bot project. Every day, discover a gorg
 
 ## Installation
 
-Feel free to use the code in the server.js file.
+Feel free to use the code in the server.js file. I did not include the panels in this repo, nor the config file with the different keys.
 
 ## Usage
 
