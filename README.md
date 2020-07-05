@@ -10,10 +10,19 @@ Feel free to use the code in the server.js file. I did not include the panels in
 
 Visit [EverydayManga on Twitter](https://twitter.com/everydaymanga)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+## Author
+<b>Andrew Keymolen</b>  
+Contact: andrewkeymolen@gmail.com
+Website: [andrewkeymolen.com](https://andrewkeymolen.com/)
+GitHub: [@AndrewKeymolen](https://github.com/AndrewKeymolen)
 
-Please make sure to update tests as appropriate.
+## Contributing
+
+Contributions, issues and feature requests are welcome!
+
+## Show your support
+
+Give a ⭐ if this project helped you!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
