@@ -1,6 +1,6 @@
 # EverydayManga
 
-EverydayManga is a small Node.js Twitter bot project. Every day, discover a gorgeous new - carefully picked - manga panel.
+EverydayManga is a Node.js Twitter bot. Every day, discover a gorgeous new - carefully picked - manga panel.
 
 ## Installation
 
